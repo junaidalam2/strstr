@@ -1,12 +1,12 @@
 
 # C Library Function: strstr()
-A function that replicates the strstr() in C. 
+A function that replicates the strstr() function in C. 
 
 
 
 ## Screenshot
 
-![Screenshot](https://github.com/junaidalam2/PyCalculator/blob/main/screenshot.jpg?raw=true)
+![Screenshot](https://github.com/junaidalam2/strstr/blob/main/screenshot.jpg?raw=true)
 
 
 ## Tech Stack
@@ -15,7 +15,7 @@ A function that replicates the strstr() in C.
 
 
 ## Installation
-Installation of and IDE and compiler for C is required. 
+Installation of an IDE and compiler for C is required. 
 
 ## Author
 
