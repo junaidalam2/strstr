@@ -1,10 +1,11 @@
 
 # C Library Function: strstr()
-A function that replicates the strstr() function in C. 
+A function that replicates the strstr() function in C: char *strstr(const char *haystack, const char *needle)
 
 
 
 ## Screenshot
+Example of output from inputs of haystack - 'mississippi' and needle - 'i':
 
 ![Screenshot](https://github.com/junaidalam2/strstr/blob/main/screenshot.jpg?raw=true)
 
